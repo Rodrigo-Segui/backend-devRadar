@@ -1,6 +1,7 @@
 import React from 'react';
 import './global.css';
 import './App.css';
+import './Sidebar.css';
 
 // Componente: Bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação
 // Propriedade: Informacoes que um componente PAI passa para o componente FILHO
